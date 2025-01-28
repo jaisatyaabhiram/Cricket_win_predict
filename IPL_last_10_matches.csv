@@ -1,0 +1,61 @@
+Team,Opponent,Venue,Toss_Decision,Predicted_Score,Wickets_Lost
+Mumbai Indians,Kolkata Knight Riders,Wankhede,Bat,180,7
+Mumbai Indians,Chennai Super Kings,Wankhede,Field,170,6
+Mumbai Indians,Delhi Capitals,Wankhede,Bat,175,8
+Mumbai Indians,Rajasthan Royals,Wankhede,Field,185,7
+Mumbai Indians,Sunrisers Hyderabad,Wankhede,Bat,190,6
+Mumbai Indians,Kolkata Knight Riders,Eden Gardens,Field,170,6
+Mumbai Indians,Chennai Super Kings,Eden Gardens,Bat,160,5
+Mumbai Indians,Delhi Capitals,Eden Gardens,Field,155,7
+Mumbai Indians,Rajasthan Royals,Eden Gardens,Bat,165,8
+Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,Field,180,6
+Chennai Super Kings,Mumbai Indians,Chepauk,Field,165,6
+Chennai Super Kings,Kolkata Knight Riders,Chepauk,Bat,155,7
+Chennai Super Kings,Delhi Capitals,Chepauk,Field,160,5
+Chennai Super Kings,Rajasthan Royals,Chepauk,Bat,170,6
+Chennai Super Kings,Sunrisers Hyderabad,Chepauk,Field,180,7
+Chennai Super Kings,Mumbai Indians,Wankhede,Bat,175,7
+Chennai Super Kings,Kolkata Knight Riders,Wankhede,Field,165,8
+Chennai Super Kings,Delhi Capitals,Wankhede,Bat,160,6
+Chennai Super Kings,Rajasthan Royals,Wankhede,Field,190,5
+Chennai Super Kings,Sunrisers Hyderabad,Wankhede,Bat,185,7
+Delhi Capitals,Mumbai Indians,Feroz Shah Kotla,Bat,150,6
+Delhi Capitals,Kolkata Knight Riders,Feroz Shah Kotla,Field,155,7
+Delhi Capitals,Chennai Super Kings,Feroz Shah Kotla,Bat,140,8
+Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla,Field,165,7
+Delhi Capitals,Sunrisers Hyderabad,Feroz Shah Kotla,Bat,160,6
+Delhi Capitals,Mumbai Indians,Chepauk,Field,145,7
+Delhi Capitals,Kolkata Knight Riders,Chepauk,Bat,150,6
+Delhi Capitals,Chennai Super Kings,Chepauk,Field,155,5
+Delhi Capitals,Rajasthan Royals,Chepauk,Bat,160,6
+Delhi Capitals,Sunrisers Hyderabad,Chepauk,Field,165,7
+Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Field,175,7
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Bat,165,6
+Kolkata Knight Riders,Delhi Capitals,Eden Gardens,Field,180,7
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Bat,190,6
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Field,200,8
+Kolkata Knight Riders,Mumbai Indians,Wankhede,Bat,170,7
+Kolkata Knight Riders,Chennai Super Kings,Wankhede,Field,160,5
+Kolkata Knight Riders,Delhi Capitals,Wankhede,Bat,155,7
+Kolkata Knight Riders,Rajasthan Royals,Wankhede,Field,175,6
+Kolkata Knight Riders,Sunrisers Hyderabad,Wankhede,Bat,185,7
+Rajasthan Royals,Mumbai Indians,Sawai Mansingh,Bat,160,6
+Rajasthan Royals,Chennai Super Kings,Sawai Mansingh,Field,170,7
+Rajasthan Royals,Delhi Capitals,Sawai Mansingh,Bat,165,5
+Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh,Field,175,8
+Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh,Bat,180,6
+Rajasthan Royals,Mumbai Indians,Eden Gardens,Field,155,7
+Rajasthan Royals,Chennai Super Kings,Eden Gardens,Bat,165,6
+Rajasthan Royals,Delhi Capitals,Eden Gardens,Field,160,5
+Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,Bat,170,7
+Rajasthan Royals,Sunrisers Hyderabad,Eden Gardens,Field,185,6
+Sunrisers Hyderabad,Mumbai Indians,Hyderabad,Field,165,7
+Sunrisers Hyderabad,Chennai Super Kings,Hyderabad,Bat,175,6
+Sunrisers Hyderabad,Delhi Capitals,Hyderabad,Field,170,5
+Sunrisers Hyderabad,Kolkata Knight Riders,Hyderabad,Bat,180,7
+Sunrisers Hyderabad,Rajasthan Royals,Hyderabad,Field,160,8
+Sunrisers Hyderabad,Mumbai Indians,Wankhede,Bat,170,7
+Sunrisers Hyderabad,Chennai Super Kings,Wankhede,Field,165,6
+Sunrisers Hyderabad,Delhi Capitals,Wankhede,Bat,180,7
+Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede,Field,175,8
+Sunrisers Hyderabad,Rajasthan Royals,Wankhede,Bat,185,7
